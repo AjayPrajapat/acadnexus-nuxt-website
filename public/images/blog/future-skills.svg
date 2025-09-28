@@ -1,0 +1,10 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='800' height='420' viewBox='0 0 800 420'>
+  <rect width='800' height='420' fill='#6366f1'/>
+  <g fill='#eef2ff'>
+    <rect x='160' y='120' width='80' height='200' rx='16'/>
+    <rect x='280' y='80' width='80' height='240' rx='16'/>
+    <rect x='400' y='160' width='80' height='160' rx='16'/>
+    <rect x='520' y='60' width='80' height='260' rx='16'/>
+  </g>
+  <text x='50%' y='82%' dominant-baseline='middle' text-anchor='middle' font-family='Inter, Arial' font-size='44' fill='#312e81'>Future Skills</text>
+</svg>
